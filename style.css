@@ -96,6 +96,9 @@ width:640px;
 height: 350px;
 margin-left:auto;
 margin-right:auto;
+background-size:contain, cover;
+background-repeat: no-repeat;
+
 }
 
 #outer{
