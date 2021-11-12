@@ -1,0 +1,1 @@
+File in ticker.png name format.
